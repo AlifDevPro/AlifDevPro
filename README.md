@@ -13,7 +13,7 @@ I'm a passionate MERN Full Stack Developer with a love for creating robust and e
 
 ## 💼 Experience
 
-- **[Company Name](#)** - *Position* (Date Started - Date Ended)
+- **Dsyncro(#)** - *Founder & Full Stack Web Developer * (Date 2019 - Date Present)
   - Description of your role and achievements.
 
 ## 🌱 Currently Learning
@@ -30,10 +30,8 @@ Description of the project, technologies used, and any key features.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile] https://www.linkedin.com/in/alif-a-7903a029a/
-- Twitter: [@YourTwitterHandle](Link to Twitter)
-- Portfolio: [Your Portfolio](Link to Portfolio)
-- Email: your.email@example.com
+- LinkedIn: Alif Ahmad - https://www.linkedin.com/in/alif-a-7903a029a/
+- Email: alifahmed16662005@gmail.com
 
 ## 🤝 Open to Collaboration
 
@@ -41,10 +39,10 @@ I am open to collaborating on exciting projects. If you have an idea or project 
 
 ## 🚀 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlifDevPro&show_icons=true&hide_border=true)
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlifDevPro&layout=compact&hide_border=true)
 
 Thanks for stopping by! 😊
