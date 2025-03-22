@@ -22,7 +22,7 @@ Always striving to enhance my skills, I am currently learning [Technology/Tool].
 
 ## 🔧 Projects
 
-### [Project 1](Link to Project Repository)
+### [Project 1] https://dsyncro-ui.vercel.app/
 Description of the project, technologies used, and any key features.
 
 ### [Project 2](Link to Project Repository)
@@ -30,7 +30,7 @@ Description of the project, technologies used, and any key features.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- LinkedIn: [Your LinkedIn Profile] https://www.linkedin.com/in/alif-a-7903a029a/
 - Twitter: [@YourTwitterHandle](Link to Twitter)
 - Portfolio: [Your Portfolio](Link to Portfolio)
 - Email: your.email@example.com
